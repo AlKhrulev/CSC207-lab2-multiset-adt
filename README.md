@@ -20,7 +20,7 @@ apply those skills to a collaborative coding task.
 > **Note:** This may seem like a big task at first, but remember that your team will divide the
 > work into smaller tasks!
 
-Your goal is to translate the Python code in `python/multiset.py` into a functionally equivalent
+Your goal is to translate the Python code in `python/adts.py` into a functionally equivalent
 set of Java classes. Some parts will translate directly, while others will require you to explore
 unfamiliar Java syntax and concepts.
 
@@ -59,6 +59,7 @@ should feel similar to code you saw in your first-year CS courses.
   access to the same shared remote repository.
 
 > **Note:** On GitHub, check **Settings → General** and ensure that Issues are enabled.
+> ![images/GitHubIssuesSetting.png](images/GitHubIssuesSetting.png)
 
 ---
 
